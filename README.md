@@ -6,8 +6,25 @@
 
 A workshop template for building a retro arcade-themed website with Astro that compares GitHub contribution graphs of two users. This is the **starting point** — you'll build the app step by step using GitHub Copilot.
 
+## Why Mona Mayhem?
+
+Turn GitHub activity into a playful head-to-head arcade showdown.
+
+- 🕹️ **Build something fun** — transform contribution graphs into a battle arena
+- 🤖 **Practice real Copilot workflows** — from planning and scaffolding to polishing and review
+- ⚡ **Choose your setup** — follow the workshop in VS Code or entirely from the CLI
+- 🚀 **Leave with a remixable project** — start from the template, then customize it your way
+
 ![Mona Mayhem Screenshot](https://github.com/user-attachments/assets/5eca79e2-cb9f-4e93-aa0d-23666ebde3b7)
 *What you'll build by the end of the workshop*
+
+## Start Here
+
+1. **Create your own repo** using **Use this template** or by forking this repository.
+2. **Pick your player:**
+   - **VS Code track** — editor-first workflows with Chat, Plan Mode, and Agent Mode
+   - **CLI track** — terminal-first workflows with `copilot`, `/plan`, `/delegate`, and `/review`
+3. **Jump into the workshop** with the [overview guide](workshop/00-overview.md).
 
 ## 📚 Workshop
 
